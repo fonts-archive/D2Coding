@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'D2Coding';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Regular.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'D2Coding';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding-Bold.ttf') format('truetype');
+}
