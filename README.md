@@ -1,13 +1,13 @@
 # D2Coding
 
-[Visit Source](https://github.com/naver/d2codingfont)
+[Visit Source](https://elice.io/ko/elice/brand#elice_dx_neolli)
 
 &nbsp;
 
 ### CSS
 
 ```
-font-family: 'D2Coding';
+font-family: "Elice DX Neolli", sans-serif;
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'D2Coding';
 ### link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding.css" type="text/css"/>
+<link href="https://font.elice.io/css?family=Elice+DX+Neolli" rel="stylesheet">
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ font-family: 'D2Coding';
 ### import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/D2Coding/D2Coding.css');
+@import url("https://font.elice.io/css?family=Elice+DX+Neolli");
 ```
 
 &nbsp;
@@ -56,9 +56,11 @@ font-family: 'D2Coding';
 ### 라이센스 본문
 
 ```
-'누구나 사용'할 수 있고 또 OFL 라이센스 하에서 '누구나 재배포' 하실 수 있습니다.
+(주)엘리스에서 무료로 배포하는 "엘리스 DX널리체"의 지적재산권은 (주)엘리스가 보유하고 있으며 SIL Open Font License를 따릅니다.
 
-D2 Coding 글꼴은 OFL(Open Font License)이라는 국제적으로 인정받는 공개 글꼴을 위한 라이센스를 채택하여 사용에 대한 제약을 없앰과 동시에 재배포에 대한 제약도 획기적으로 완화하여, 이 라이센스를 명시하기만 하면 다른 프로그램(상용 프로그램 포함)에 이 개발자용 D2 Coding 글꼴을 포함하여 재배포하는 것도 허용합니다.
+모든 개인/기업/단체는 엘리스 DX널리체의 사용, 연구 및 적용, 수정과 재배포가 가능합니다.
+본 라이센스 하에 배포해야 하며 다른 라이선스 하에서는 배포할 수 없습니다.
 
-자세한 사항은 아래 OpenFontLicense를 참고하세요~
+더욱 자세한 내용은 OFL-FAQ를 참고하세요.
+폰트 사용 및 기타 문의 contact@elice.io
 ```
